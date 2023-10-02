@@ -1,10 +1,52 @@
-# Milestones List
+
+# Milestones
 **Note:** Since there is only one group member, all work will be done by David Earnest 
-1. **Working solution to collect training dataset:** We will develop and implement an approach to create the training dataset.
-2. **Behavior Cloning Working**: We will develop and implement an appoarch to clone the behavioral policy.
-3. **Method Implemented and Working:** We will implement or method.
-4. **Results Collection:** We will collect results with our new method.
-5. **Comparision:** We will compare our method to other approaches.
+
+## Working solution to collect training dataset
+Upon reaching this milestone I will have an policy which can collect the collect the training dataset which I will use to train my offline RL agent.
+
+Completion Date: TBD
+
+Deliverables
+- Behavioral policy that can collect the training dataset
+- Training dataset collected with the behavioral policy
+
+## Behavior Cloning Working
+After completing this milestone, I will have cloned the behavioral policy. I will used this clone policy later in the algorithm.
+
+Completion Date: TBD
+
+Deliverables
+- Cloned policy
+- Neural network and training design
+- Network weights saved
+
+## Method Implemented and Working
+This milestone concludes the completion of my algorithms implmentation. I will have a working, tested implementation of my algorithm.
+
+Completion Date: TBD
+
+Deliverables
+- New algorithm fully implemented in code
+-  Network weights saved
+
+## Results Collection
+This milestone concludes the collection of results with my new methods. I will collect data and create plots that let me evaluate the performance of my algorithm.
+
+Completion Date: TBD
+
+Deliverables
+- Testing results
+- Plots
+
+## Comparision
+This milestone concludes the comparision of my algorithm with existing methods.
+
+Completion Date: TBD
+
+Deliverables
+- Other current methods implemented
+- Plots comparing methods
 
 # Timeline
 | Task | Start Date | Completion Date |
