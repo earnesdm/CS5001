@@ -15,7 +15,7 @@ The goal of this project is to design and test a new apporach to Offline Reinfor
 3. [User Stories](./assignments/User_Stories.md) & [Design Diagrams](./design-diagrams/README.md)
 4. [Project Tasks](./assignments/Tasklist.md) & [Timeline](./assignments/Milestone_Timeline_Effort.md)
 5. [Project Constraints](./assignments/Project_Constraints.md)
-6. Fall Presentation [Slides](https://docs.google.com/presentation/d/1mAg4HPND533sMZmpMaIAR64RTL_7l_LU41Adyv0q8Ls/edit?usp=sharing) & [Video](https://youtu.be/gkTmC7Terrk)
+6. Fall Presentation [Slides](https://docs.google.com/presentation/d/18BiLJPZH9OZSIf_6dmX14LZEMKo7SOB_/edit?usp=sharing) & [Video](https://www.youtube.com/watch?v=YXwk4Y9uf6k)
 7. [Initial Self-Assessment](./assignments/initial-self-assessment.md)
 8. [Professional Biography](./assignments/professional_biography_earnest.md)
 9. [Budget](./assignments/budget.md)
