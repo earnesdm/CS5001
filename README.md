@@ -16,7 +16,7 @@ The goal of this project is to design and test a new apporach to Offline Reinfor
 4. [Project Tasks](./assignments/Tasklist.md) & [Timeline](./assignments/Milestones_Timeline_Effort.md)
 5. [Project Constraints](./assignments/Project_Constraints.md)
 6. Fall Presentation [Slides](https://docs.google.com/presentation/d/18BiLJPZH9OZSIf_6dmX14LZEMKo7SOB_/edit?usp=sharing) & [Video](https://www.youtube.com/watch?v=YXwk4Y9uf6k)
-7. [Initial Self-Assessment](./assignments/initial-self-assessment.md)
+7. [Initial Self-Assessment](./assignments/Individual Capstone Assessment.pdf)
 8. [Professional Biography](./assignments/professional_biography_earnest.md)
 9. [Budget](./assignments/budget.md)
 10. [Appendix & Hours Summary](./assignments/appendix.md)
