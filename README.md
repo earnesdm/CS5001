@@ -1,6 +1,6 @@
 <p align="center">
-    <img src="https://github.com/earnesdm/CS5001/blob/main/images/logo.png#gh-light-mode-only" width="200px"/>
-    <img src="https://github.com/earnesdm/CS5001/blob/main/images/logo.png#gh-dark-mode-only" width="200px"/>
+    <img src="https://github.com/earnesdm/CS5001/blob/main/images/logo.png#gh-light-mode-only" width="300px"/>
+    <img src="https://github.com/earnesdm/CS5001/blob/main/images/logo.png#gh-dark-mode-only" width="300px"/>
 </p>
 
 # Action Constrained Offline RL
