@@ -8,8 +8,8 @@
 The goal of this project is to design and test a new apporach to Offline Reinforcement Learning based on constraining the actions of the learned policy to resemble the actions of the behavioral policy. Additionally, we would like to test this apporach against current state-of-the-art apporaches for Offline Reinforcement Learning.
 
 ## Notes and Code
-[Meeting Notes](./assignments/Meeting_Notes.pdf)
-[Code](./src/)
+1. [Meeting Notes](./assignments/Meeting_Notes.pdf)
+2. [Code](./src/)
 
 
 ## Table of Contents
